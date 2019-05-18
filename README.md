@@ -102,9 +102,6 @@ ansiToSVG(ansiText, {
 })
 ```
 
-})
-```
-
 ## Basic Text
 
 ```js
