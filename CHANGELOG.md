@@ -2,6 +2,10 @@
 
 ANSI-to-SVG uses [Semantic Versioning](http://semver.org/).
 
+## v1.4.4
+
+- fix: `main` field in `package.json`
+
 ## v1.4.2 - 2018-05-13
 
 - Fixed
